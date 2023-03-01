@@ -26,3 +26,9 @@ The program will continuously record audio from the microphone and print out the
 
 If you'd like to contribute to this project, please feel free to submit a pull request. We welcome contributions of all kinds, including bug fixes, new features, and improvements to documentation.
 
+
+The program will continuously record audio from the microphone and print out the musical note corresponding to the input.
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
