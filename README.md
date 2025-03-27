@@ -1,4 +1,4 @@
-# Musical Note Guesser
+# PitchDetect
 
 This is a Python program that can guess musical notes based on microphone input. The program uses the PyAudio library to record audio from the microphone, and then uses the Fast Fourier Transform (FFT) to calculate the frequency of the signal. It then maps that frequency to a musical note using the formula for calculating the frequency of a note relative to A440.
 
